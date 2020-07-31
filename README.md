@@ -25,52 +25,5 @@
         <li><a href="qr.html">CLIQUE AQUI!!! DPS DE LER NÉ KK</a></li>
       </ul> 
 </menu>
-    h1{
-    color: palevioletred;
-    text-align: center;
-    border-color: black;
-}
-body{
-    background-color: black;
-}
-
-h3{
-    color: palevioletred;
-}
-
-ul {
-    list-style-type: none;
-    margin: 0;
-    margin-top: 25px;
-    margin-left: -49px;
-    margin-right: -10px;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
-  }
-
-  .active {
-    background-color: palevioletred
-}
-
- li a:hover:not(.active) {
-   background-color: palevioletred;
- }
- li {
-   float: center;
- }
- 
- li a {
-   display: block;
-   color: white;
-   text-align: left;
-   padding: 14px 30px;
-   text-decoration: none;
- }
- 
- li a:hover {
-   background-color: #111;
- }
-
 </body>
 </html>
