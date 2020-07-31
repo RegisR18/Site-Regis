@@ -32,7 +32,6 @@
 }
 
 img{
-    padding-left: 700px;
     align-self: auto;
     background-color: black;
 }
