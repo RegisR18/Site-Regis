@@ -30,12 +30,6 @@
     text-align: center;
     border-color: black;
 }
-
-img{
-    align-self: auto;
-    background-color: black;
-}
-
 body{
     background-color: black;
 }
